@@ -1,0 +1,33 @@
+body {
+    background-image: url("../../assets/images/Background.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+// Just-the-docs has specific background colors for the UI.
+// Make them transparent to see background image.
+.main {
+    background-color: transparent;
+}
+
+.side-bar {
+    background-color: #fbf8f0;
+}
+
+// Optional: Add a semi-transparent overlay to the main content 
+// so your text remains readable against the image.
+.main-content {
+    background-color: rgba(251, 248, 240, 0.8); 
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.title, .main-content h1, .main-content h2 {
+  color: #003B5C !important;
+}
+
+.main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+  color: #8BB8E8 !important;
+}
