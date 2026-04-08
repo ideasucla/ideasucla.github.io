@@ -4,4 +4,4 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: usparc
 just_the_docs:
   collapsible_nav: true
-baseurl: "/student-resources"
+baseurl: "./"
