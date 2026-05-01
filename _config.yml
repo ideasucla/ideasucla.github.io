@@ -1,8 +1,8 @@
-title: Community Resources
+title: Resources Hub
 description: Resources for Students Navigating Higher Education
 remote_theme: pmarsceill/just-the-docs
 color_scheme: usparc
 just_the_docs:
   collapsible_nav: true
-  footer_content: ""
+  footer_content: " "
 baseurl: "./"
