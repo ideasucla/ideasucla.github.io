@@ -8,5 +8,5 @@ nav_order: 1
   <img src="./assets/images/USPARC_Header.png" alt="USPARC Header">
 </div>
 
-# Welcome to the IDEAS x USPARC @ UCLA Resource Page
+# Welcome to the IDEAS x USPARC @ UCLA Resource Hub
 
