@@ -1,6 +1,6 @@
 ---
 layout: default
-title: History
+title: History of IDEAS @ UCLA
 has_children: true
 ---
 
