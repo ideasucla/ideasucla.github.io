@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Standing on the Shoulders of Giants
-parent: History
+parent: History of IDEAS @ UCLA
 ---
 
 # Tam Tran Lost & Found
