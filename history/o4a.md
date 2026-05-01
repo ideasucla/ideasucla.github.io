@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Opportunity for All
-parent: History
+parent: History of IDEAS @ UCLA
 ---
 
 # Opportunity for All Campaign
