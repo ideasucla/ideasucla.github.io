@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Books
-parent: History
+parent: History of IDEAS @ UCLA
 ---
 
 <!-- # [Underground Undergrads: UCLA Undocumented Immigrant Students Speak Out](https://books.labor.ucla.edu/undergroundundergrads) -->
