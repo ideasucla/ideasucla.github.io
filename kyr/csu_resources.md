@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cal State and Community College Resources
-parent: Higher Education Resources
+parent: Know Your Rights
 ---
 
 # California State University and Community College Resources

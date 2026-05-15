@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Community Resources
-parent: Resources
+parent: Legal Resources Home
 ---
 
 # Community Resources

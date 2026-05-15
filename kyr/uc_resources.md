@@ -1,10 +1,10 @@
 ---
 layout: default
 title: University of California Resources
-parent: Higher Education Resources
+parent: Know Your Rights
 ---
 
-<!-- # University of California Resources
+# University of California Resources
 Information on students’ rights, campus policies/ protocols, and existing on-campus resources for students on the 
 University of California campuses.
 
@@ -23,7 +23,3 @@ University of California campuses.
 - [UC Statement](https://www.universityofcalifornia.edu/sites/default/files/Statement-of-Principles-in-Support-of-Undocumented-Members-of-UC.pdf) of Principles in Support of Undocumented
 Members of the UC Community.
 - [UC FAQs](https://www.universityofcalifornia.edu/frequently-asked-questions-university-employees-about-possible-federal-immigration-enforcement) for University Employees About Possible Federal Immigration Enforcement Actions on University Property. 
-
-
-
- -->

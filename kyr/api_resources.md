@@ -1,7 +1,7 @@
 ---
 layout: default
 title: APDA/API-Specific Resources
-parent: Resources
+parent: Know Your Rights
 ---
 
 # APDA/API-Specific Resources
@@ -18,7 +18,3 @@ Resources tailored to the Asian Pacific Islander Desi American communities. This
 - AFT Immigrant and Refugee Children:  Educator and School Support Guide in [English](https://www.aft.org/sites/default/files/media/2017/im_uac-educators-guide_2017.pdf) and [Korena](https://www.aft.org/sites/default/files/media/documents/2023/im_uac-educators-guide-Korean_2019.pdf).
 - Koreatown Immigrant Workers Alliance (KIWA): Immigrant community [outreach and education](https://www.kiwa.org/outreach-and-education).
 - Know Your Righths [Cards](https://linktr.ee/RedCardsMoreLanguages) in 110+ languages.
-
-
-
-

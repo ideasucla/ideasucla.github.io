@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Executive Order Resources
-parent: Resources
+parent: Legal Resources Home
 ---
 
 # Executive Order Resources
