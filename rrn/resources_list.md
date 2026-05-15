@@ -4,7 +4,7 @@ title: RRN Resources
 parent: Rapid Response Networks
 ---
 
-# Rapid Response Networks (RRN) Resources for the Undocumented Community
+<!-- # Rapid Response Networks (RRN) Resources for the Undocumented Community
 - **CLUE** Immigrant [resources](https://www.cluejustice.org/immigration-resources/) contact numbers to report ICE sightings:
     - Los Angeles [888-624-4752](tel:8886244752)
     - Orange County [714-881-1558](tel:7148811558)
@@ -27,4 +27,4 @@ parent: Rapid Response Networks
     - [Quick reference](https://oag.ca.gov/system/files/attachments/press-docs/Quick%20Reference%20for%20School%20Officials.pdf) for school officials
         - What to do if ICE comes to your school.
 - **Center For Law and Social Policy** [Guide](https://www.clasp.org/wp-content/uploads/2022/04/2022_safespacesguide.pdf) for creating safe space policies for early childhood programs against immigration enforcement. 
-- **Everyone Belongs Here** Rapid Response for [healthcare professionals](https://www.everyonebelongshere.net/rapidresponsewarrants).
+- **Everyone Belongs Here** Rapid Response for [healthcare professionals](https://www.everyonebelongshere.net/rapidresponsewarrants). -->
