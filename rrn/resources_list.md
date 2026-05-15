@@ -1,7 +1,7 @@
 ---
 layout: default
 title: RRN Resources
-parent: Rapid Response Networks
+# parent: Rapid Response Networks
 ---
 
 <!-- # Rapid Response Networks (RRN) Resources for the Undocumented Community

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rapid Response Networks
-has_children: true
+has_children: false
 ---
 
 # Home page for Rapid Response Networks
