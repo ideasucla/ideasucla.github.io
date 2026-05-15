@@ -4,7 +4,7 @@ title: University of California Resources
 parent: Higher Education Resources
 ---
 
-# University of California Resources
+<!-- # University of California Resources
 Information on students’ rights, campus policies/ protocols, and existing on-campus resources for students on the 
 University of California campuses.
 
@@ -26,4 +26,4 @@ Members of the UC Community.
 
 
 
-
+ -->
