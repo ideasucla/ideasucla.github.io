@@ -4,10 +4,9 @@ title: Rapid Response Networks
 has_children: false
 ---
 
-# Home page for Rapid Response Networks
+# Rapid Response Networks (RRN) Resources for the Undocumented Community
 An immigrant rapid response network (RRN) is a group based in the community that provides support and services in response to ICE actions. A RRN will usually help document ICE’s actions– what happened and who was involved/affected– and direct both folks affected directly and folks supporting them to other resources that they’ll need to address what happened. This section includes information on what to do and where to seek help if ICE is currently conducting or has just conducted immigration enforcement actions. 
 
-# Rapid Response Networks (RRN) Resources for the Undocumented Community
 - **CLUE** Immigrant [resources](https://www.cluejustice.org/immigration-resources/) contact numbers to report ICE sightings:
     - Los Angeles [888-624-4752](tel:8886244752)
     - Orange County [714-881-1558](tel:7148811558)
