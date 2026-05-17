@@ -16,7 +16,7 @@ These links offer information, support, and other organizations and resources ge
 - [Medical Expansion Resource Hub](https://caimmigrant.org/what-we-do/policy/health-public-benefits/medi-cal-expansion-resource-hub/): Information needed to access healthcare benefits in California, regardless of immigration status. Provided by the California Immigrant Policy Center.
 - [Mental Health Connector](https://immigrantsrising.org/mental-health-connector/): The Immigrants Rising program connects undocumented students in California with licensed therapists, free of cost.
 - [Wellness Support Groups for Students](https://immigrantsrising.org/supportgroups/): Wellness support groups hosted by Immigrants Rising, with upcoming groups in June 2026.
-- [CAPS @ UCLA](https://caimmigrant.org/what-we-do/policy/health-public-benefits/medi-cal-expansion-resource-hub/): Counseling and psychological services at the University of California, Los Angeles. 
+- [CAPS @ UCLA](https://counseling.ucla.edu/): Counseling and psychological services for the UCLA community. 
 
 
 
