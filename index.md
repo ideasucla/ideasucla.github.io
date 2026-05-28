@@ -10,4 +10,4 @@ nav_order: 1
 </div> -->
 
 # Welcome to the IDEAS@UCLA Resource Hub
-Have any suggestions that should be added? Send us the information through this [form](https://forms.gle/SeCzTCqkr9xwFKju5)!
+We want to keep this hub growing! If you have any suggestions, please share them with us through this [form](https://forms.gle/SeCzTCqkr9xwFKju5)!
