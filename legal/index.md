@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Legal Resources Home
+title: Legal Resources
 has_children: true
 nav_order: 2
 ---

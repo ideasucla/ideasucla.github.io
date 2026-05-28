@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Understanding Policies
-parent: Legal Resources Home
+parent: Legal Resources
 ---
 
 # Executive Order Resources

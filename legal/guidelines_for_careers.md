@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Guide for Select Occupations
-parent: Legal Resources Home
+parent: Legal Resources
 ---
 
 # Guide for Select Occupations
