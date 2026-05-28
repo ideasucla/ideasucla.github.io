@@ -8,6 +8,7 @@ nav_order: 2
 # Immigrant Youth Friendly Websites
 The following are organizations that may offer financial support.
 
+- [Immigrants Rising](https://immigrantsrising.org/resource/list-of-scholarships-and-fellowships/) list of scholarships and scholarships.
 - [Coalition for Humane Immigrant Rights of Los Angeles (CHIRLA)](https://www.chirla.org/)
 - [Economic Crisis Response Team @ UCLA](https://studentincrisis.ucla.edu/economic-crisis-response): Campus support for UCLA students experiencing financial distress.
 - [VietRISE](https://vietrise.org/)
